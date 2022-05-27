@@ -1,0 +1,18 @@
+{
+    "repeat": true,
+    "minPostDelay": 2880,
+    "maxPostDelay": 4320,
+    "retryDelay": 5,
+    "mDesc": "Posts are from reddit, all credit goes to the original uploader!",
+    "allowLogs": true,
+    
+    "tags":[
+        "#Balls",
+        "Cum"
+    ],
+
+    "subs": [
+        "Dankmemes",
+        "Animemes"
+    ]
+}

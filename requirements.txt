@@ -1,0 +1,14 @@
+certifi
+chardet
+idna
+numpy
+prawcore
+requests
+six
+update-checker
+urllib3
+websocket-client
+praw
+instagrapi
+pillow
+opencv-python
